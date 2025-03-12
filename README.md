@@ -33,16 +33,3 @@ This project predicts the win probability of IPL matches based on historical mat
 - Accuracy: ~80% on test data.  
 - Model predicts win/loss based on real-time match progression.  
 
-## 💡 **How to Run**  
-1. Clone the repository:  
-```bash
-git clone https://github.com/username/ipl-win-predictor.git
-```
-2. Install dependencies:  
-```bash
-pip install -r requirements.txt
-```
-3. Run the notebook:  
-```bash
-jupyter notebook ipl_win_predictor.ipynb
-```
